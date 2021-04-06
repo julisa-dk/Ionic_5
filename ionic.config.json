@@ -1,0 +1,7 @@
+{
+  "name": "vent2u_v3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
